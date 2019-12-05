@@ -195,13 +195,6 @@ public class MainActivity extends AppCompatActivity implements ZXingScannerView.
         super.onBackPressed();
 
 
-        //public void onBackPressed() {
-        //    if (webView.canGoBack()) {
-        //        webView.goBack();
-        //    } else {
-        //        super.onBackPressed();
-        //    }
-        //}
     }
 }
 
