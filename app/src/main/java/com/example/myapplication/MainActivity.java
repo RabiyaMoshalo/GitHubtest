@@ -194,7 +194,7 @@ public class MainActivity extends AppCompatActivity implements ZXingScannerView.
         startActivity(intent);
         super.onBackPressed();
 
-
+            ///// add comment
     }
 }
 
